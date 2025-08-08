@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 <hr>
 
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details><summary><h3>📊 GitHub Stats </h3></summary>
   <p align="center">
     <a href="https://github.com/florensiuspancagati/github-readme-stats">
 	  <img alt="floren's Github Stats" src="https://github-readme-stats.vercel.app/api?username=florensiuspancagati&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=florensiuspancagati&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="florensius" height="230px"/>
-    <br/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florensiuspancagati&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="florensiuspancagati" height="230px"/>
+	<br/>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
@@ -47,6 +47,18 @@ Here are some ideas to get you started:
       </a>
     </p>
   </div>
+</details>
+
+<details><summary><h3>🔥 Streak Stats</h3></summary>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=florensiuspancagati&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </p>
+</details>
+
+<details><summary><h3>📈 Contribution Graph</h3></summary>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=florensiuspancagati&theme=tokyo-night" alt="Contribution Graph"/>
+  </p>
 </details>
 
 <hr>
