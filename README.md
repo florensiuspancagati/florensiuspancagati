@@ -45,6 +45,9 @@ Here are some ideas to get you started:
 	  <a href="https://github.com/florensiuspancagati/Game">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=florensiuspancagati&repo=yelpclone&theme=tokyonight" alt="GitHub Stats" />
       </a>
+	  <a href="https://github.com/florensiuspancagati/Game">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=florensiuspancagati&repo=mern-ftree&theme=tokyonight" alt="GitHub Stats" />
+      </a>
     </p>
   </div>
 </details>
@@ -83,9 +86,9 @@ Here are some ideas to get you started:
 		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="width: 45px;"></a>
     <a style="margin-left: 10px;"target="_blank" href="#">
 		<img src="https://img.icons8.com/?size=45&id=ddJXF_L1PvL_&format=png&color=000000"></a>
-		<a style="margin-left: 10px;" target="_blank" href="#">
+	<a style="margin-left: 10px;" target="_blank" href="#">
 		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" style="width: 45px;"></a>
-		<a style="margin-left: 10px;" target="_blank" href="#">
+	<a style="margin-left: 10px;" target="_blank" href="#">
 		<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" style="width: 45px;"></a>
   </div>
 </p>
