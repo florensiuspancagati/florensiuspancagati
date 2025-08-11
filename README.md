@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=florensiuspancagati&repo=yelpclone&theme=tokyonight" alt="GitHub Stats" />
       </a>
 	  <a href="https://github.com/florensiuspancagati/Game">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=florensiuspancagati&repo=mern-ftree&theme=tokyonight" alt="GitHub Stats" />
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=florensiuspancagati&repo=mern-blog&theme=tokyonight" alt="GitHub Stats" />
       </a>
     </p>
   </div>
