@@ -4,6 +4,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Informatics+Student;Working+towards+becoming+a+web+dev...;But+open+to+taking+on+any+role+as+required..:);Active+Learner/Researcher;Love+To+Learn+New+Stuffs"/></a>
 </p>
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=florensiuspancagati&label=Profile%20views&color=0047AB&style=plastic?" alt="florensiuspancagati" height=25px, width=160px/>
+</p> -->
 
 <hr>
 
