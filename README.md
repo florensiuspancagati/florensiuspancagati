@@ -8,8 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=florensiuspancagati&label=Profile%20views&color=0047AB&style=plastic?" alt="florensiuspancagati" height=25px, width=160px/>
 </p> -->
 
+<!-- ABOUT -->
 <hr>
-
 - 📫 How to reach me **florensiuspancagati@gmail.com**
 <!--
 Here are some ideas to get you started:
@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hr>
 
+<!-- DETAIL -->
+<hr>
 <details><summary><h3>📊 GitHub Stats </h3></summary>
   <p align="center">
     <a href="https://github.com/florensiuspancagati/github-readme-stats">
@@ -70,8 +71,9 @@ Here are some ideas to get you started:
   </p>
 </details>
 
-<hr>
 
+<!-- STACK TECHNOLOGIES -->
+<hr>
 <h3 style="display: inline-block" align="center">Technologies That I Have Learned</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -79,16 +81,19 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+
+<!-- CONNECTION -->
+<hr>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"></h3>
 <p align="center">
   <div align="center"  class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="#">
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/florensiuspancagati">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png" style="width: 45px;"></a>
 		<a style="margin-left: 10px;" target="_blank" href="#">
 		<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" style="width: 45px;"></a>
-    <a style="margin-left: 10px;" target="_blank" href="#">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/page_f277">
 		<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" style="width: 45px;"></a>
-    <a style="margin-left: 10px;"  target="_blank" href="#">
+    <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/fpgati">
 		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="width: 45px;"></a>
     <a style="margin-left: 10px;"target="_blank" href="#">
 		<img src="https://img.icons8.com/?size=45&id=ddJXF_L1PvL_&format=png&color=000000"></a>
