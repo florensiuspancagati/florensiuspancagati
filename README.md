@@ -8,8 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=florensiuspancagati&label=Profile%20views&color=0047AB&style=plastic?" alt="florensiuspancagati" height=25px, width=160px/>
 </p> -->
 
+
 <!-- ABOUT -->
 <hr>
+
 - 📫 How to reach me **florensiuspancagati@gmail.com**
 <!--
 Here are some ideas to get you started:
