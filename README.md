@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 		<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" style="width: 45px;"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/page_f277">
 		<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" style="width: 45px;"></a>
-    <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/fpgati">
+    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fpgati">
 		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="width: 45px;"></a>
     <a style="margin-left: 10px;"target="_blank" href="#">
 		<img src="https://img.icons8.com/?size=45&id=ddJXF_L1PvL_&format=png&color=000000"></a>
