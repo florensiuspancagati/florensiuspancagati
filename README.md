@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 <h3 style="display: inline-block" align="center">Technologies That I Have Learned</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,express,github,html,java,js,linux,mongodb,nodejs,postman,py,vscode,arduino,bootstrap,debian,gmail,godot,mysql,npm,php,sublime,sass&perline=14"/>
+  <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,express,github,html,java,js,linux,debian,mongodb,nodejs,postman,py,vscode,arduino,bootstrap,gmail,godot,mysql,npm,php,sublime,sass,react,redux&perline=14"/>
   </a>
 </p>
 
