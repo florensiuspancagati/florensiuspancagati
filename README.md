@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 	  <a href="https://github.com/florensiuspancagati/mern-api">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=florensiuspancagati&repo=mern-api&theme=tokyonight" alt="GitHub Stats" />
       </a>
+	  <a href="https://github.com/florensiuspancagati/data-structures">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=florensiuspancagati&repo=data-structures&theme=tokyonight" alt="GitHub Stats" />
+      </a>
     </p>
   </div>
 </details>
